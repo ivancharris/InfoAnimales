@@ -15,6 +15,6 @@ public class perro extends animalPadres {
 	}
 	
 	public void age() {
-		out.print("Ten en cuenta los cuidados de tu perro, su edad promedio es de 13 años");
+		out.println("Ten en cuenta los cuidados de tu perro, su edad promedio es de 13 años");
 	}
 }
