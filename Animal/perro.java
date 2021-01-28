@@ -1,3 +1,5 @@
+package Animal;
+
 import java.io.PrintStream;
 import java.util.Scanner;
 
